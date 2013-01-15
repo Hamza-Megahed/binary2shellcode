@@ -1,5 +1,4 @@
 
-
     888888b.   d8b                                          .d8888b.  
     888  "88b  Y8P                                         d88P  Y88b 
     888  .88P                                                     888 
@@ -29,7 +28,7 @@ Binary2Shellcode:
 
 introduction :
 
-  Binary2shellcode is a converter from binary to shellcode and gets size of shellcode in bytes.    
+  Binary2shellcode is a converter from binary to shellcode and gets the size of shellcode in bytes.    
   Works under Linux and Unix only.
 
 
